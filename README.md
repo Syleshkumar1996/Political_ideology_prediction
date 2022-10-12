@@ -24,6 +24,7 @@ Using Spotify’s API, the following features for each song are extracted
 11.	Tempo
 12.	Time signature
 13.	Valence
+
 A logistic regression model is built using the above-mentioned parameters to predict the political affiliation of a person.
 
 **Conclusion:**

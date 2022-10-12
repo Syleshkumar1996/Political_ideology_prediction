@@ -2,7 +2,7 @@
 
 **Objective:**
 
-The aim of this project is to predict the political ideology (left wing or right wing) of person through one’s music preferences
+The aim of this project is to predict the political ideology (left wing or right wing) of a person through one’s music preferences
 
 **Data Sources:**
 
